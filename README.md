@@ -34,7 +34,6 @@ Bar Chart (Department-wise Attrition by Education Field): Breaks down attrition 
 
 Donut Charts (Attrition Rate by Gender for Different Age Groups): Displays the breakdown of male and female attrition across different age groups, providing insights into age- and gender-specific attrition trends.
 
-![Image](https://github.com/user-attachments/assets/1df79c9b-bb45-4619-9e7f-884a43d7e996)
-
+![Image](https://github.com/user-attachments/assets/b8446b88-f30b-4598-a6e0-8c213a059917)
 
    
